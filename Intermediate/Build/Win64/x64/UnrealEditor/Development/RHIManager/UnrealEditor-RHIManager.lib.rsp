@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RHIManager.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"../Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_4.h.obj"
+"C:/Users/YuQing/Documents/Unreal Projects/InDoorRenderingDemo/Plugins/RHIManager_UE5/Intermediate/Build/Win64/x64/UnrealEditor/Development/RHIManager/Module.RHIManager.cpp.obj"
+"../Intermediate/Build/Win64/x64/UnrealEditor/Development/Default.rc2.res"
+/OUT:"C:/Users/YuQing/Documents/Unreal Projects/InDoorRenderingDemo/Plugins/RHIManager_UE5/Intermediate/Build/Win64/x64/UnrealEditor/Development/RHIManager/UnrealEditor-RHIManager.lib"

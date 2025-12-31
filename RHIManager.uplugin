@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.2",
+	"FriendlyName": "RHI Manager",
+	"Description": "Runtime Graphics RHI API Switching for Unreal Engine 5. Allows switching between DirectX 11, DirectX 12, and Vulkan through Blueprint.",
+	"Category": "Graphics",
+	"CreatedBy": "Community",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "RHIManager",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"PlatformAllowList": [
+				"Win64",
+				"Linux"
+			]
+		}
+	]
+}

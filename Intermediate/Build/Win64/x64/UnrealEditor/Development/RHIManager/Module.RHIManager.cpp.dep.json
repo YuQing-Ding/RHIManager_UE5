@@ -1,0 +1,36 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\yuqing\\documents\\unreal projects\\indoorrenderingdemo\\plugins\\rhimanager_ue5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rhimanager\\module.rhimanager.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealengine-5.7.0-release\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_4.h.pch",
+        "Includes": [
+            "c:\\users\\yuqing\\documents\\unreal projects\\indoorrenderingdemo\\plugins\\rhimanager_ue5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rhimanager\\definitions.rhimanager.h",
+            "c:\\users\\yuqing\\documents\\unreal projects\\indoorrenderingdemo\\plugins\\rhimanager_ue5\\intermediate\\build\\win64\\unrealeditor\\inc\\rhimanager\\uht\\graphicsrhidata.gen.cpp",
+            "c:\\users\\yuqing\\documents\\unreal projects\\indoorrenderingdemo\\plugins\\rhimanager_ue5\\source\\rhimanager\\public\\graphicsrhidata.h",
+            "c:\\users\\yuqing\\documents\\unreal projects\\indoorrenderingdemo\\plugins\\rhimanager_ue5\\intermediate\\build\\win64\\unrealeditor\\inc\\rhimanager\\uht\\graphicsrhidata.generated.h",
+            "c:\\users\\yuqing\\documents\\unreal projects\\indoorrenderingdemo\\plugins\\rhimanager_ue5\\intermediate\\build\\win64\\unrealeditor\\inc\\rhimanager\\uht\\rhimanager.init.gen.cpp",
+            "c:\\users\\yuqing\\documents\\unreal projects\\indoorrenderingdemo\\plugins\\rhimanager_ue5\\intermediate\\build\\win64\\unrealeditor\\inc\\rhimanager\\uht\\rhimanagerbplibrary.gen.cpp",
+            "c:\\users\\yuqing\\documents\\unreal projects\\indoorrenderingdemo\\plugins\\rhimanager_ue5\\source\\rhimanager\\public\\rhimanagerbplibrary.h",
+            "c:\\unrealengine-5.7.0-release\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "c:\\unrealengine-5.7.0-release\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "c:\\unrealengine-5.7.0-release\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\unrealengine-5.7.0-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\coreuobject\\uht\\propertyaccessutil.generated.h",
+            "c:\\unrealengine-5.7.0-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "c:\\unrealengine-5.7.0-release\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "c:\\unrealengine-5.7.0-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "c:\\unrealengine-5.7.0-release\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "c:\\unrealengine-5.7.0-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "c:\\unrealengine-5.7.0-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h",
+            "c:\\users\\yuqing\\documents\\unreal projects\\indoorrenderingdemo\\plugins\\rhimanager_ue5\\intermediate\\build\\win64\\unrealeditor\\inc\\rhimanager\\uht\\rhimanagerbplibrary.generated.h",
+            "c:\\users\\yuqing\\documents\\unreal projects\\indoorrenderingdemo\\plugins\\rhimanager_ue5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rhimanager\\permoduleinline.gen.cpp",
+            "c:\\unrealengine-5.7.0-release\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl",
+            "c:\\users\\yuqing\\documents\\unreal projects\\indoorrenderingdemo\\plugins\\rhimanager_ue5\\source\\rhimanager\\private\\graphicsrhidata.cpp",
+            "c:\\users\\yuqing\\documents\\unreal projects\\indoorrenderingdemo\\plugins\\rhimanager_ue5\\source\\rhimanager\\private\\rhimanager.cpp",
+            "c:\\users\\yuqing\\documents\\unreal projects\\indoorrenderingdemo\\plugins\\rhimanager_ue5\\source\\rhimanager\\public\\rhimanager.h",
+            "c:\\users\\yuqing\\documents\\unreal projects\\indoorrenderingdemo\\plugins\\rhimanager_ue5\\source\\rhimanager\\private\\rhimanagerbplibrary.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.RHIManager.cpp.obj": [
+			"GraphicsRHIData.gen.cpp.obj",
+			"RHIManager.init.gen.cpp.obj",
+			"RHIManagerBPLibrary.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"GraphicsRHIData.cpp.obj",
+			"RHIManager.cpp.obj",
+			"RHIManagerBPLibrary.cpp.obj"
+		]
+	}
+}
